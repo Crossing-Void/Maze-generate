@@ -1,0 +1,12 @@
+{
+    "playerImagePath": "images\\sys\\pacman",
+    "obstacleColor": "#ff6b87",
+    "obstacleInitialRate": 1.5,
+    "timerType": "blue",
+    "moveArgs": [
+        200,
+        0.01,
+        450
+    ],
+    "moveMaxSpeed": 1000
+}

@@ -1,0 +1,22 @@
+{
+    "levelEasy": [
+        6,
+        4,
+        50
+    ],
+    "levelMedium": [
+        12,
+        8,
+        90
+    ],
+    "levelHard": [
+        19,
+        12,
+        120
+    ],
+    "lineColor": [
+        "Brown",
+        "Gold"
+    ],
+    "lineWidth": 2
+}

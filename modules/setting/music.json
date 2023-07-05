@@ -1,0 +1,9 @@
+{
+    "volume": 0.8,
+    "gameMusics": [
+        "sho.mp3",
+        "rush_01.mp3",
+        "rush_02.mp3"
+    ],
+    "collideWall": "collide_wall"
+}
